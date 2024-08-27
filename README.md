@@ -71,18 +71,6 @@ This Python script synchronizes two folders, allows for basic file operations su
 - **Removing a file:**
   - Select `3) Remove File`, enter the filename, and the file will be removed from `./Folder1`.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This script uses Python's built-in libraries for file management, threading, and logging.
