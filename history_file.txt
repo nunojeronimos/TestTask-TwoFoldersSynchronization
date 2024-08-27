@@ -1,2 +1,8 @@
-
+[2024-08-28 00:44:48] File created at ./Folder1\teste.txt
+[2024-08-28 00:44:58] File created at ./Folder1\teste2.txt
+[2024-08-28 00:45:11] File copied from ./Folder1\teste.txt to Folder1\teste-copy.txt
+[2024-08-28 00:45:15] File synchronized: ./Folder1\teste-copy.txt to ./Copy_Folder1\.\teste-copy.txt
+[2024-08-28 00:45:15] File synchronized: ./Folder1\teste.txt to ./Copy_Folder1\.\teste.txt
+[2024-08-28 00:45:15] File synchronized: ./Folder1\teste2.txt to ./Copy_Folder1\.\teste2.txt
+[2024-08-28 00:45:20] Programme closed
 
